@@ -1,5 +1,5 @@
 # Titanic
-<he>模型測試生還準確度<h3><br>
+<he>模型測試生還準確度</h3><br>
 <br>
 欄位說明:<br>
 <ol>PassengerId => 乘客ID
@@ -39,3 +39,7 @@ cabin只有204個乘客有值<br>
 補充Age的缺失值<br>
 按Cabin有無數據，將這個屬性處理成Yes和No兩種類型<br>
 對Embarked進行填充數據<br>
+<br>
+最後<br>
+數據標準化處理<br>
+數據建模，帶入模型預測<br>
